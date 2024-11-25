@@ -1,1 +1,2 @@
-# Revisando a ferramenta de versionamento Git <h1>
+# Uso do Git
+<p> Utilização do git em projeto simples para entendimento do versionamento de código</p>
